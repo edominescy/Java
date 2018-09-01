@@ -1,0 +1,7 @@
+08-7123,01/20/1990,3000
+08-6325,03/15/2000,1000,8765252,Honda,Civic,2009,Bob Jones,15 Price St.,Oxford,MS,0
+08-9867,06/20/2010,4000,1500,1999,Sally Fields,60 William Dr.,Tupelo,MS,false,true
+03-1653,07/09/2012,8000,12000,2012,Mike Macias,314 Circular Cir.,Seattle,WA,true,true
+08-9831,10/10/1986,600,8008135,Delorean,DCM-12,1981,Calvin Klein,1432 Rich St.,Hill Valley,CA,3
+08-3467,12/12/2001,1250,1750,2001,Jessica Johnson,74 Jefferson Ave.,Oxford,MS,false,false
+08-5614,04/25/2011,825,7765224,Ford,F-150,2011,Bill Buckner,12 Bramlett Blvd.,Sardis,MS,2
