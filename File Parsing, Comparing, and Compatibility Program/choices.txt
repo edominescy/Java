@@ -1,0 +1,100 @@
+Mac
+PC
+Coke
+Pepsi
+winter
+summer
+Batman
+Spiderman
+today
+tomorrow
+paper
+plastic
+Broncos
+Panthers
+apples
+oranges
+left
+right
+blonds
+brunettes
+Ginger
+Mary Ann
+Army
+Navy
+rock
+country
+heads
+tails
+smoking
+non-smoking
+sandals
+sneakers
+alcohol
+no alcohol
+window
+aisle
+Apple
+Android
+pen
+pencil
+Chevy
+Ford
+coffee
+tea
+sink
+swim
+Java
+C
+sushi
+hibachi
+lead
+follow
+lover
+fighter
+Star Trek
+Star Wars
+East coast
+West coast
+top down
+bottom up
+books
+movies
+cake
+pie
+checkers
+chess
+cats
+dogs
+money
+fame
+sunrise
+sunset
+peanut butter
+jelly
+spicy
+mild
+fiction
+non-fiction
+video games
+board games
+fried
+grilled
+frugal
+lavish
+half empty
+half full
+white
+wheat
+mustard
+ketchup
+type A
+type B
+debit
+credit
+morning
+evening
+beach
+mountains
+ESPN
+HGTV

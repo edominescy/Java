@@ -1,0 +1,73 @@
+Part One:
+
+
+Class Summary:
+
+Mac: 21       	  	PC: 46		        Invalid: 2
+Coke: 51                Pepsi: 15               Invalid: 3
+winter: 30              summer: 37              Invalid: 2
+Batman: 44              Spiderman: 25           Invalid: 0
+today: 43               tomorrow: 25            Invalid: 1
+paper: 46               plastic: 22             Invalid: 1
+Broncos: 26             Panthers: 32            Invalid: 11
+apples: 32              oranges: 35             Invalid: 2
+left: 14                right: 55               Invalid: 0
+blonds: 24              brunettes: 42           Invalid: 3
+Ginger: 33              Mary Ann: 30            Invalid: 6
+Army: 20                Navy: 43                Invalid: 6
+rock: 51                country: 17             Invalid: 1
+heads: 46               tails: 23               Invalid: 0
+smoking: 8              non-smoking: 61         Invalid: 0
+sandals: 12             sneakers: 57            Invalid: 0
+alcohol: 33             no alcohol: 34          Invalid: 2
+window: 55              aisle: 14               Invalid: 0
+Apple: 31               Android: 38             Invalid: 0
+pen: 28       	  	pencil: 40              Invalid: 1
+Chevy: 31               Ford: 34                Invalid: 4
+coffee: 22              tea: 46         	Invalid: 1
+sink: 9         	swim: 59                Invalid: 1
+Java: 48                C: 20           	Invalid: 1
+sushi: 31               hibachi: 37             Invalid: 1
+lead: 49                follow: 19              Invalid: 1
+lover: 47               fighter: 17             Invalid: 5
+Star Trek: 9            Star Wars: 53           Invalid: 7
+East coast: 40          West coast: 25          Invalid: 4
+top down: 40            bottom up: 27           Invalid: 2
+books: 21               movies: 46              Invalid: 2
+cake: 46                pie: 22         	Invalid: 1
+checkers: 21            chess: 47               Invalid: 1
+cats: 18                dogs: 50                Invalid: 1
+money: 60               fame: 8       		Invalid: 1
+sunrise: 25             sunset: 43              Invalid: 1
+peanut butter: 44       jelly: 24               Invalid: 1
+spicy: 39               mild: 30                Invalid: 0
+fiction: 52             non-fiction: 15         Invalid: 2
+video games: 55         board games: 14         Invalid: 0
+fried: 28               grilled: 41             Invalid: 0
+frugal: 44              lavish: 24              Invalid: 1
+half empty: 22          half full: 47           Invalid: 0
+white: 29               wheat: 39               Invalid: 1
+mustard: 26             ketchup: 43             Invalid: 0
+type A: 43              type B: 23              Invalid: 3
+debit: 58               credit: 10              Invalid: 1
+morning: 27             evening: 42             Invalid: 0
+beach: 34               mountains: 34           Invalid: 1
+ESPN: 45                HGTV: 21                Invalid: 3
+
+
+ Part Two
+
+The student pair(s) with most similar taste have 40 of 50 answers in common.
+Majid A and Saqer A
+Tate M and Devin F
+The student pair(s) with least similar taste have 13 of 50 answers in common.
+Deep P and Jason M
+
+
+ Part Three
+
+The student(s) with most similar taste to me have 32 of 50 answers in common.
+Rachel T
+The student(s) with least similar taste to me have 17 of 50 answers in common.
+Deep P
+Saqer A
